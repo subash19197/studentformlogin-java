@@ -13,7 +13,8 @@
     * AWT
 
  # Screenshots
-1.Login:![Screenshot](images/Screenshot_20241225_114120.png)
+1.Registered Data:![Screenshot](images/Screenshot_20241225_113434.png)
+2.Login:![Screenshot](images/Screenshot_20241225_114120.png)
 
 # Future Enhancements
     * Implement user authentication
