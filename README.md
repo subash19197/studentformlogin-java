@@ -16,6 +16,13 @@
 1.Registered Data:![Screenshot](images/Screenshot_20241225_113434.png)
 2.Login:![Screenshot](images/Screenshot_20241225_114120.png)
 
+# Installation and Usage:
+   * Clone the repository:
+     git clone 
+     https://github.com/subash19197/Student_Form_Login-Java
+   * JDK 22
+   * Provide MySQL schema  
+
 # Future Enhancements
     * Implement user authentication
     * Add email notifications for login success
